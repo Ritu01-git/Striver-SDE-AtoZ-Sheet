@@ -144,6 +144,9 @@ void insertInSortedLL(Node*&head, int data)
     temp->next = P;
 }
 
+//deleting from LL
+
+
 int main()
 {
     Node *head = NULL;
